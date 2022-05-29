@@ -15,4 +15,4 @@
 
 ### FILES
 
-- Attendance.csv  - is the csv file that contain the attendance
+- Attendance.csv  - is the csv file that contains the attendance
